@@ -20,4 +20,5 @@ leastFavoriteCustomer = "original content"
 
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'changed info'
+  return leastFavoriteCustomer
 }
