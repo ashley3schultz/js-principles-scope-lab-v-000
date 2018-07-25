@@ -16,6 +16,8 @@ function overwriteBestCustomer() {
   return bestCustomer
 }
 
+leastFavoriteCustomer = "original content"
+
 function changeLeastFavoriteCustomer() {
-  leastFavoriteCustomer = "original content"
+  leastFavoriteCustomer = 'changed info'
 }
