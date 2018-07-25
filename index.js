@@ -3,5 +3,4 @@ var customerName = 'bob'
 
 upperCaseCustomerName() {
   var customerName = 'BOB'
-  return customerName
 }
